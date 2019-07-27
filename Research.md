@@ -18,10 +18,10 @@ permalink: /Research/
 
 Easterly Waves are an important class of weather systems that form over North Africa during the monsoon season. They are associated with intense convective storms that produce copious amounts of rain. A majority (60-80%) of Atlantic tropical storms originate from these waves. Fundamental questions related to their origin and evolution still remain unresolved.  We are interested in all aspects of these waves --- from their origin over land to transformation into hurricanes over the ocean. 
 
-|Visit our [Easterly Wave Project Page](/Research/ews.html) for more information.|
 
 
-Our group also maintains the [Easterly Wave Project Site] that includes real-time monitoring, database of published papers, and research highlights.
+[//]: #  |Visit our [Easterly Wave Project Page](/Research/ews.html) for more information.|
+[//]: # Our group also maintains the [Easterly Wave Project Site] that includes real-time monitoring, database of published papers, and research highlights.
 
 
 
