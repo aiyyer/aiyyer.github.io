@@ -18,7 +18,7 @@ Current Tropical Dynamics Members
 
   
 
-Lab Alumnus
+Lab Alumni
 =======================
 
 
