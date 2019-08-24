@@ -9,10 +9,10 @@ Current Tropical Dynamics Members
 
 | Graduate  Students | Undergraduate Reearch |
 | ------------------ | --------------------- |
-| PhD: J. Dylan White  | C. Chaney |
-| PhD: S. Mantripragda | R. Van der Drift |
-| MS: M. Hakiki | M. Rehnberg |
-|               | T. Wade |
+| PhD: J. Dylan White  | T. Wade |
+| PhD: [S. Mantripragda](https://tropicalwavesresearch.com/) | R. Van der Drift |
+| PhD: S. Dhavle  |M. Rehnberg  |
+| MS: M. Hakiki | |
 
 
 
