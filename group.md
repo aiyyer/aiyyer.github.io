@@ -7,7 +7,7 @@ permalink: /Group/
 Current Tropical Dynamics Members
 ========================
 
-| Graduate  Students | Undergraduate Reearch |
+| Graduate  Students | Undergraduate Research |
 | ------------------ | --------------------- |
 | PhD: J. Dylan White  | T. Wade |
 | PhD: [S. Mantripragda](https://tropicalwavesresearch.com/) | R. Van der Drift |
