@@ -33,7 +33,16 @@ plugins:
 
 google_analytics: UA-152703127-1
 
-
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: '/tag/:name/'
+    category: '/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
