@@ -30,7 +30,7 @@ Post Doctoral associates/visitors
 
 | Graduate Students | Year | Links to their dissertations |
 | ----------------- | ---  | ---------------------------- |
-| J. D. White | 2019 | African Easterly Wave Storm Track Dynamics|
+| J. D. White | PhD 2019 | African Easterly Wave Storm Track Dynamics|
 | [J. Russell](https://sites.google.com/view/james-russell/) | PhD 2018 |  [The Interaction Between Moist Convection and African Easterly Waves](http://www.lib.ncsu.edu/resolver/1840.20/36264)|
 | M. Diaz | PhD 2014 | [The Role of Energy Dispersion in the Genesis and Life Cycle of African Easterly Waves](http://www.lib.ncsu.edu/resolver/1840.16/9696) |
 | B. A. Stieneke | MS 2013 | [ The Role of Moisture and the Saharan Air Layer in the Tropical Wave to Cyclone Transition of Hurricane Ernesto (2006).](https://repository.lib.ncsu.edu/handle/1840.16/9131)|
