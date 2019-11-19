@@ -11,7 +11,7 @@ Current Tropical Dynamics Members
 | ------------------ | --------------------- |
 | PhD: [S. Mantripragda](https://tropicalwavesresearch.com/) | R. Van der Drift |
 | PhD: S. Dhavle  |M. Rehnberg  |
-| MS: M. Hakiki | |T. Wade 
+| MS: M. Hakiki | T. Wade |
 
 
 
