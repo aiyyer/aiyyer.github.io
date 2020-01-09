@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-#title: Welcome to Tropical Dynamics at NCSU
+#title: Welcome to Atmospheric Dynamics at NCSU
 list_title: "Research and Group News"
 ---
 
@@ -15,16 +15,17 @@ list_title: "Research and Group News"
 
 
 
-Welcome to Tropical Dynamics at NCSU
+Welcome to Large Scale Atmospheric Dynamics at NCSU
 ----------------
 
-Our [group](Group/index.html) is interested in dynamics of tropical phenomena and tropical-extratropical interactions.  We are currently working on research problems related to:
+Our [group](Group/index.html) is interested in all aspects of modeling and observation of atmospheric phenomena.
 
-- [Easterly Waves](Research/index.html#easterly-waves)
+.  We are currently working on research problems related to:
+
+- [Atmospheric Waves](Research/index.html#easterly-waves)
 - [Hurricane formation and variability](Research/index.html#kelvin-waves)
-- [Equatorial waves](Research/#kelvin-waves)
 - [Stormtrack dynamics](Research/index.html)
-- [Large scale tropical atmosphere](Research/index.html)
+- [Agricultural Meteorology and Remote Sensing](Research/index.html)
 
 
 ***
