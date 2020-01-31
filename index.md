@@ -7,17 +7,14 @@ layout: home
 list_title: "Research and Group News"
 ---
 
-
-
-
-
 <img src="/images/header.png">
 
 
+| Room 5147 Jordan Hall, NCSU |  [bio](images/aiyyer-cv.pdf) |
 
 Welcome to Large Scale Atmospheric Dynamics at NCSU
 ----------------
-We are in the department of [Marine, Earth and Atmospheric Sciences](www.meas.ncsu.edu).
+We are in the department of [Marine, Earth and Atmospheric Sciences](https://meas.sciences.ncsu.edu).
 Our [group](Group/index.html) is interested in all aspects of modeling and observation of atmospheric phenomena.
 
 .  We are currently working on research problems related to:
@@ -26,6 +23,5 @@ Our [group](Group/index.html) is interested in all aspects of modeling and obser
 - [Hurricane formation and variability](Research/index.html#kelvin-waves)
 - [Stormtrack dynamics](Research/index.html)
 - [Agricultural Meteorology and Remote Sensing](Research/index.html)
-
 
 ***
