@@ -10,7 +10,7 @@ list_title: "Research and Group News"
 <img src="/images/header.png">
 
 
-| Room 5147 Jordan Hall, NCSU |  [bio](images/aiyyer-cv.pdf) |
+| Room 5147 Jordan Hall, NCSU |  [bio](/images/aiyyer-cv.pdf) |
 
 Welcome to Large Scale Atmospheric Dynamics at NCSU
 ----------------
