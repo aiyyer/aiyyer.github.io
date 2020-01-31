@@ -17,7 +17,7 @@ list_title: "Research and Group News"
 
 Welcome to Large Scale Atmospheric Dynamics at NCSU
 ----------------
-
+We are in the department of [Marine, Earth and Atmospheric Sciences](www.meas.ncsu.edu).
 Our [group](Group/index.html) is interested in all aspects of modeling and observation of atmospheric phenomena.
 
 .  We are currently working on research problems related to:
