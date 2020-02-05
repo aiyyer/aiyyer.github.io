@@ -10,7 +10,7 @@ list_title: "Research and Group News"
 <img src="/images/header.png">
 
 
-| Room 5147 Jordan Hall, NCSU |  [bio](/images/aiyyer-cv.pdf) |
+| Room 5147 Jordan Hall, NCSU |  [bio](images/aiyyer-cv.pdf) |
 
 Welcome to Large Scale Atmospheric Dynamics at NCSU
 ----------------
@@ -22,6 +22,5 @@ Our [group](Group/index.html) is interested in all aspects of modeling and obser
 - [Atmospheric Waves](Research/index.html#easterly-waves)
 - [Hurricane formation and variability](Research/index.html#kelvin-waves)
 - [Stormtrack dynamics](Research/index.html)
-- [Agricultural Meteorology and Remote Sensing](Research/index.html)
 
 ***
