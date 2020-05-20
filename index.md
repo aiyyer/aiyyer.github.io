@@ -23,6 +23,5 @@ We are currently working on research problems related to:
 - [Atmospheric Waves](Research/index.html#easterly-waves)
 - [Hurricane formation and variability](Research/index.html#kelvin-waves)
 - [Stormtrack dynamics](Research/index.html)
-- Sensor networks, remote sensing and data analytics
 
 ***
