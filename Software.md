@@ -7,7 +7,9 @@ permalink: /Software/
 
 Software and Data Downloads from our Group
 ========================
-We intend to make code from our publications available on line. More coming soon.
+We intend to make code from our publications available on line.
+
+Please check the [github page](https://github.com/aiyyer) for some of the code that we have made public. More coming soon.
 
 
 

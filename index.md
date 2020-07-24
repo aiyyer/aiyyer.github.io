@@ -20,8 +20,8 @@ Our [group](Group/index.html) is interested in all aspects of modeling and obser
 atmospheric phenomena.
 
 We are currently working on research problems related to:
-- [Climate Dynamics]
-- [Stormtrack dynamics]
+- Climate Dynamics
+- Stormtrack dynamics
 - [Atmospheric Waves](Research/index.html#easterly-waves)
 - [Hurricane formation and variability](Research/index.html#kelvin-waves)
 
