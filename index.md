@@ -16,12 +16,14 @@ Welcome to Large Scale Atmospheric Dynamics at [NCSU](https://www.ncsu.edu/)
 
 ----------------
 We are in the department of [Marine, Earth and Atmospheric Sciences](https://meas.sciences.ncsu.edu).
-Our [group](Group/index.html) is interested in all aspects of modeling and observation of atmospheric phenomena.
+Our [group](Group/index.html) is interested in all aspects of modeling and observation of
+atmospheric phenomena.
 
 We are currently working on research problems related to:
-
+- [Climate Dynamics]
+- [Stormtrack dynamics]
 - [Atmospheric Waves](Research/index.html#easterly-waves)
 - [Hurricane formation and variability](Research/index.html#kelvin-waves)
-- [Stormtrack dynamics](Research/index.html)
+
 
 ***
