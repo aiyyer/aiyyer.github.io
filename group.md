@@ -4,7 +4,7 @@ title: "Group"
 permalink: /Group/
 ---
 
-Current Tropical Dynamics Members
+Current Group Members
 ========================
 
 | Graduate  Students | Undergraduate Research |
