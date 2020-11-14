@@ -9,7 +9,7 @@ Current Group Members
 
 | Graduate  Students | Undergraduate Research |
 | ------------------ | --------------------- |
-| MS: [S. Mantripragda](https://tropicalwavesresearch.com/) | R. Van der Drift |
+| MS: [S. Mantripragda](https://tropicalwavesresearch.com/) | [R. Van der Drift](https://robertvdd.github.io/) |
 | PhD: S. Dhavle  |M. Rehnberg  |
 | MS: M. Hakiki | T. Wade |
 | PhD: M. Gliatto |  |
