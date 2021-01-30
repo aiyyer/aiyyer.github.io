@@ -20,6 +20,17 @@ Submitted Publications
 ========================
 
 
+|2021 | [Acceleration of Tropical Cyclones As a Proxy For Extratropical Interactions: Synoptic-Scale Patterns and Long-Term Trends](https://wcd.copernicus.org/preprints/wcd-2021-04/)|
+| | [More information on this paper](../papers/2021/01/22/AT.html)|
+
+
+
+|2020 | [African Easterly Waves in an Idealized General Circulation Model: Instability and Wavepacket Diagnostics](https://wcd.copernicus.org/preprints/wcd-2020-47/)|
+| | [More information on this paper](../papers/2020/09/22/WA.html)|
+
+
+
+
 |2020 | [African Easterly Waves in an Idealized General Circulation Model: Instability and Wavepacket Diagnostics](https://wcd.copernicus.org/preprints/wcd-2020-47/)|
 | | [More information on this paper](../papers/2020/09/22/WA.html)|
 
