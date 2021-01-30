@@ -29,16 +29,11 @@ Submitted Publications
 | | [More information on this paper](../papers/2020/09/22/WA.html)|
 
 
-
-
-|2020 | [African Easterly Waves in an Idealized General Circulation Model: Instability and Wavepacket Diagnostics](https://wcd.copernicus.org/preprints/wcd-2020-47/)|
-| | [More information on this paper](../papers/2020/09/22/WA.html)|
-
 |2020 |The Impact of Orography on the African Easterly Wave Stormtrack|
 | |(With J D White and J O Russell)  Submitted to JGR |
 
 |2020 | Tropical Cyclones contribution to seasonal precipitation and streamflow using station based data in Southeastern and Southcentral United States|
-| | (with D. Chalise and S. Arumugam) Submitted to GRL |
+| |(with D. Chalise and S. Arumugam) Submitted to GRL |
 
 
 
