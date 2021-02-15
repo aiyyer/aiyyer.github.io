@@ -20,7 +20,7 @@ Submitted Publications
 ========================
 
 
-|2021 | [Acceleration of Tropical Cyclones As a Proxy For Extratropical Interactions: Synoptic-Scale Patterns and Long-Term Trends](https://wcd.copernicus.org/preprints/wcd-2021-04/)|
+|2021 | [Acceleration of Tropical Cyclones As a Proxy For Extratropical Interactions: Synoptic-Scale Patterns and Long-Term Trends](https://wcd.copernicus.org/preprints/wcd-2021-4/)|
 | | [More information on this paper](../papers/2021/01/22/AT.html)|
 
 
@@ -41,7 +41,7 @@ Selected Publications
 ========================
 
 
-|2019 | [The Potential Vorticity Structure and Dynamics of African Easterly Waves](https://journals.ametsoc.org/doi/10.1175/JAS-D-19-0019.1) |
+|2020 | [The Potential Vorticity Structure and Dynamics of African Easterly Waves](https://journals.ametsoc.org/doi/10.1175/JAS-D-19-0019.1) |
 | | [More information on this paper](../papers/2019/12/28/PV.html)|
 
 
