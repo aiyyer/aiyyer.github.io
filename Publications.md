@@ -30,7 +30,7 @@ permalink: /Publications/
 
 
 |2021 |The Impact of Orography on the African Easterly Wave Stormtrack (Submitted to JGR) |
-|     |[Preprint on arxiv (https://arxiv.org/abs/2103.08350)|
+|     |[Preprint on arxiv](https://arxiv.org/abs/2103.08350)|
 
 
 
