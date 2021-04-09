@@ -12,28 +12,25 @@ permalink: /Publications/
 
 
 
+# Publications Under Review
 
-
-
-
-Submitted Publications
-========================
 
 
 |2021 | [Acceleration of Tropical Cyclones As a Proxy For Extratropical Interactions: Synoptic-Scale Patterns and Long-Term Trends](https://wcd.copernicus.org/preprints/wcd-2021-4/)|
 | | [More information on this paper](../papers/2021/01/22/AT.html)|
 
 
+|2021 | Tropical Cyclones contribution to seasonal precipitation and streamflow using station based data in Southeastern and Southcentral United States|
+| |(with D. Chalise and S. Arumugam) Submitted to GRL |
 
-|2020 | [African Easterly Waves in an Idealized General Circulation Model: Instability and Wavepacket Diagnostics](https://wcd.copernicus.org/preprints/wcd-2020-47/)|
+# Recently Accepted for Publication
+
+|2021 | [African Easterly Waves in an Idealized General Circulation Model: Instability and Wavepacket Diagnostics](https://wcd.copernicus.org/preprints/wcd-2020-47/)|
 | | [More information on this paper](../papers/2020/09/22/WA.html)|
 
 
-|2020 |The Impact of Orography on the African Easterly Wave Stormtrack|
-| |(With J D White and J O Russell)  Submitted to JGR |
-
-|2020 | Tropical Cyclones contribution to seasonal precipitation and streamflow using station based data in Southeastern and Southcentral United States|
-| |(with D. Chalise and S. Arumugam) Submitted to GRL |
+|2021 |The Impact of Orography on the African Easterly Wave Stormtrack (Submitted to JGR) |
+|     |[Preprint on arxiv (https://arxiv.org/abs/2103.08350)|
 
 
 
