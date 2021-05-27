@@ -9,28 +9,24 @@ Current Group Members
 
 | Graduate  Students | Undergraduate Research |
 | ------------------ | --------------------- |
-| MS: [S. Mantripragda](https://tropicalwavesresearch.com/) | [R. Van der Drift](https://robertvdd.github.io/) |
-| PhD: S. Dhavle  |M. Rehnberg  |
-| MS: M. Hakiki | T. Wade |
-| PhD: M. Gliatto |  |
+| PhD: S. Dhavle  | [R. Van der Drift](https://robertvdd.github.io/)|
+| PhD: M. Gliatto |T. Wade  |
 
-
-
-  
 
 Lab Alumni
 =======================
 
 
-Post Doctoral associates/visitors
+Post Doctoral associates & visitors
 ---------------------------
 
 |[W. Hannah](http://hannahlab.org/)| NSF Postdoctoral Associate |
-
+|[M. Hakiki] |USAID PRESTASI | 
 
 
 | Graduate Students | Year | Links to their dissertations |
 | ----------------- | ---  | ---------------------------- |
+| [S. Mantripragada](https://tropicalwavesresearch.com/)| MS 2021 | |
 | J. D. White | PhD 2019 | African Easterly Wave Storm Track Dynamics|
 | [J. Russell](https://sites.google.com/view/james-russell/) | PhD 2018 |  [The Interaction Between Moist Convection and African Easterly Waves](http://www.lib.ncsu.edu/resolver/1840.20/36264)|
 | M. Diaz | PhD 2014 | [The Role of Energy Dispersion in the Genesis and Life Cycle of African Easterly Waves](http://www.lib.ncsu.edu/resolver/1840.16/9696) |
@@ -42,3 +38,5 @@ Post Doctoral associates/visitors
 | N. Hardin | MS 2008 | [Noninear Structure and Evolution of African Easterly Waves](http://www.lib.ncsu.edu/resolver/1840.16/1518) |
 
 
+| Undergraduate Students |
+| T. Wade (2020) |  
