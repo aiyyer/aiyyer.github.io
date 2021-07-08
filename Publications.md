@@ -21,11 +21,6 @@ permalink: /Publications/
 |2021 | Tropical Cyclones contribution to seasonal precipitation and streamflow using station based data in Southeastern and Southcentral United States|
 | |(with D. Chalise and S. Arumugam) Submitted to GRL |
 
-# Recently Published
-
-
-
-
 
 Selected Publications
 ========================
