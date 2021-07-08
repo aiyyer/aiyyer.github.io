@@ -22,8 +22,7 @@ permalink: /Publications/
 | |(with D. Chalise and S. Arumugam) Submitted to GRL |
 
 
-Selected Publications
-========================
+# Selected Publications
 
 |2021|[African Easterly Waves in an Idealized General Circulation Model: Instability and Wavepacket Diagnostics](https://wcd.copernicus.org/articles/2/311/2021/)|
 |    |[More information on this paper](../papers/2020/09/22/WA.html)|
