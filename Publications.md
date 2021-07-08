@@ -24,8 +24,9 @@ permalink: /Publications/
 
 Selected Publications
 ========================
-|2021 | [African Easterly Waves in an Idealized General Circulation Model: Instability and Wavepacket Diagnostics](https://wcd.copernicus.org/articles/2/311/2021/)|
-| | [More information on this paper](../papers/2020/09/22/WA.html)|
+
+|2021|[African Easterly Waves in an Idealized General Circulation Model: Instability and Wavepacket Diagnostics](https://wcd.copernicus.org/articles/2/311/2021/)|
+|    |[More information on this paper](../papers/2020/09/22/WA.html)|
 
 
 |2021 |[The Impact of Orography on the African Easterly Wave Stormtrack](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD033749) |
