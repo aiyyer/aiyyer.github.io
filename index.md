@@ -24,4 +24,3 @@ We are currently working on research problems related to:
 - [Hurricane formation and variability](Research/index.html#kelvin-waves)
 - Climate & Stormtrack Dynamics
 - [Atmospheric Waves](Research/index.html#easterly-waves)
-***
