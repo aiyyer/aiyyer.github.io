@@ -15,12 +15,16 @@ list_title: "Research and Group News"
 Welcome to Atmospheric Dynamics at [NCSU](https://www.ncsu.edu/)
 
 ----------------
+
 We are in the department of [Marine, Earth and Atmospheric Sciences](https://meas.sciences.ncsu.edu).
 Our [group](Group/index.html) is interested in all aspects of modeling and observation of
 atmospheric phenomena.
 
 We are currently working on research problems related to:
-- Computational Geophysical Fluid Dynamic
-- [Hurricane formation and variability](Research/index.html#kelvin-waves)
+- Synoptic Scale disturbances in the tropics
+- Hurricane formation and variability
 - Climate & Stormtrack Dynamics
-- [Atmospheric Waves](Research/index.html#easterly-waves)
+- Atmospheric Waves
+
+
+-----------------
