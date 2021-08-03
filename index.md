@@ -12,14 +12,14 @@ list_title: "Research and Group News"
 
 | Room 5147 Jordan Hall, NCSU |  [bio](images/aiyyer-cv.pdf) |
 
-Welcome to Atmospheric Dynamics at [NCSU](https://www.ncsu.edu/)\
+Welcome to Atmospheric Dynamics at [NCSU](https://www.ncsu.edu/)
 
 ----------------
 
 
 We are in the department of [Marine, Earth and Atmospheric Sciences](https://meas.sciences.ncsu.edu).
 Our [group](Group/index.html) is interested in all aspects of modeling and observation of
-atmospheric phenomena.\
+atmospheric phenomena.
 
 We are currently working on research problems related to:
 
