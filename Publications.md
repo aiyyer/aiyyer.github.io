@@ -18,11 +18,12 @@ permalink: /Publications/
 | | [More information on this paper](../papers/2021/01/22/AT.html)|
 
 
-|2021 | Tropical Cyclones contribution to seasonal precipitation and streamflow using station based data in Southeastern and Southcentral United States|
-| |(with D. Chalise and S. Arumugam) Submitted to GRL |
-
-
 # Selected Publications
+
+|2021 | [Tropical Cyclones contribution to seasonal precipitation and streamflow using station based data in Southeastern and Southcentral United States](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094738)|
+
+
+
 
 |2021|[African Easterly Waves in an Idealized General Circulation Model: Instability and Wavepacket Diagnostics](https://wcd.copernicus.org/articles/2/311/2021/)|
 |    |[More information on this paper](../papers/2020/09/22/WA.html)|
