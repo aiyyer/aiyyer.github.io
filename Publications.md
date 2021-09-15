@@ -20,6 +20,12 @@ permalink: /Publications/
 
 # Selected Publications
 
+
+
+|2021 | [Energetics of interactions between African Easterly Waves and Convectively Coupled Kelvin waves](https://journals.ametsoc.org/view/journals/mwre/aop/MWR-D-21-0003.1/MWR-D-21-0003.1.xml)|
+
+
+
 |2021 | [Tropical Cyclones contribution to seasonal precipitation and streamflow using station based data in Southeastern and Southcentral United States](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094738)|
 
 
