@@ -9,9 +9,11 @@ Current Group Members
 
 | Graduate  Students | Undergraduate Research |
 | ------------------ | --------------------- |
-| PhD: S. Dhavle  | [R. Van der Drift](https://robertvdd.github.io/)|
-| PhD: M. Gliatto |T. Wade  |
-
+| PhD: Shreyas Dhavle  | |
+| PhD: Matthew Gliatto | |
+| PhD: Abby Thornton| |
+| PhD: Henry Goff | |
+| MS: Morgan Kier| |
 
 Lab Alumni
 =======================
@@ -39,4 +41,4 @@ Post Doctoral associates & visitors
 
 
 | Undergraduate Students |
-| T. Wade (2020) |  
+| T. Wade (2020) | [R. Van der Drift](https://robertvdd.github.io/) |
