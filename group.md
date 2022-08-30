@@ -41,4 +41,5 @@ Post Doctoral associates & visitors
 
 
 | Undergraduate Students |
-| T. Wade (2020) | [R. Van der Drift](https://robertvdd.github.io/) |
+| T. Wade (2020) |
+| [R. Van der Drift](https://robertvdd.github.io/) |
