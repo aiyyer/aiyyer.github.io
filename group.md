@@ -40,6 +40,7 @@ Post Doctoral associates & visitors
 | N. Hardin | MS 2008 | [Noninear Structure and Evolution of African Easterly Waves](http://www.lib.ncsu.edu/resolver/1840.16/1518) |
 
 
-| Undergraduate Students |
-| T. Wade (2020) |
-| [R. Van der Drift](https://robertvdd.github.io/) |
+| Undergraduate Students | |
+
+| T. Wade | (2020) |
+| [R. Van der Drift](https://robertvdd.github.io/) | |
