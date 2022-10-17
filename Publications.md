@@ -11,6 +11,13 @@ permalink: /Publications/
 
 
 
+# Under Review
+
+
+|2022 | [Surface Winds and Enthalpy Fluxes During Tropical Cyclone Formation From Easterly Waves: A CYGNSS view](https://www.essoar.org/doi/abs/10.1002/essoar.10512180.1)|
+
+
+
 
 # Recently Accepted for Publication
 
