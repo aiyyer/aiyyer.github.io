@@ -14,20 +14,24 @@ permalink: /Publications/
 # Under Review
 
 
-|2022 | [Surface Winds and Enthalpy Fluxes During Tropical Cyclone Formation From Easterly Waves: A CYGNSS view](https://www.essoar.org/doi/abs/10.1002/essoar.10512180.1)|
-
 
 
 
 # Recently Accepted for Publication
 
-|2021 | [Acceleration of Tropical Cyclones As a Proxy For Extratropical Interactions: Synoptic-Scale Patterns and Long-Term Trends](https://wcd.copernicus.org/preprints/wcd-2021-4/)|
-| | [More information on this paper](../papers/2021/01/22/AT.html)|
+
+
+
+|2022 | [Surface Winds and Enthalpy Fluxes During Tropical Cyclone Formation From Easterly Waves: A CYGNSS view](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100823)|
+
 
 
 # Selected Publications
 
 
+
+|2021 | [Acceleration of Tropical Cyclones As a Proxy For Extratropical Interactions: Synoptic-Scale Patterns and Long-Term Trends](https://wcd.copernicus.org/preprints/wcd-2021-4/)|
+| | [More information on this paper](../papers/2021/01/22/AT.html)|
 
 |2021 | [Energetics of interactions between African Easterly Waves and Convectively Coupled Kelvin waves](https://journals.ametsoc.org/view/journals/mwre/aop/MWR-D-21-0003.1/MWR-D-21-0003.1.xml)|
 
