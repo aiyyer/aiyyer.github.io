@@ -25,7 +25,7 @@ Easterly Waves are an important class of weather systems that form over North Af
 
 
 |Our work on easterly waves is supported by current and Past NASA/NSF grants:|
-| [Dynamics Of Long-lived Easterly Waves: NASA - 2022-2025) |
+|Dynamics Of Long-lived Easterly Waves: NASA - 2022-2025|
 | [Origin, Storm Track Dynamics and Convective Feedback of African Easterly Waves](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1433763&HistoricalAwards=false) |
 | [CAREER: Dynamics of African Easterly Waves: Integrating Phenomenological Studies and Mathematical Instruction in Atmospheric Science](http://www.nsf.gov/awardsearch/showAward?AWD_ID=0847323&HistoricalAwards=false)|
 
@@ -35,7 +35,7 @@ Easterly Waves are an important class of weather systems that form over North Af
 ------------------------------------------------
 
 |Our work was supported by NSF grants:|
-|[Understanding the Changing Climatology, Organizing Patterns and Source Attribution of Hazards of Floods over the Southcentral and Southeast US](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208562&HistoricalAwards=false)|
+| [Understanding the Changing Climatology, Organizing Patterns and Source Attribution of Hazards of Floods over the Southcentral and Southeast US](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208562&HistoricalAwards=false) |
 
 
 # Equatorial  Waves & Hurricanes
