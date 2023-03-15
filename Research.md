@@ -35,7 +35,7 @@ Easterly Waves are an important class of weather systems that form over North Af
 ------------------------------------------------
 
 |Our work was supported by NSF grants:|
-| [Understanding the Changing Climatology, Organizing Patterns and Source Attribution of Hazards of Floods over the Southcentral and Southeast US] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208562&HistoricalAwards=false) |
+|[Understanding the Changing Climatology, Organizing Patterns and Source Attribution of Hazards of Floods over the Southcentral and Southeast US](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208562&HistoricalAwards=false)|
 
 
 # Equatorial  Waves & Hurricanes
