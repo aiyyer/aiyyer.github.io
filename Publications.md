@@ -15,6 +15,7 @@ permalink: /Publications/
 
 
 
+|2023 | [The impact of the Madden-Julian Oscillation on the formation of the Arabian Sea Monsoon Onset Vortex](https://essopenarchive.org/doi/full/10.22541/essoar.168276016.62888353/v1)|
 
 
 # Recently Accepted for Publication
