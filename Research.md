@@ -24,17 +24,17 @@ Easterly Waves are an important class of weather systems that form over North Af
 
 
 
-|Our work on easterly waves is supported by current and Past NASA/NSF grants:|
+|Our work on easterly waves is supported by current and past grants:|
 | Dynamics Of Long-lived Easterly Waves: (NASA - 2022-2025) |
-| [Origin, Storm Track Dynamics and Convective Feedback of African Easterly Waves](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1433763&HistoricalAwards=false) |
-| [CAREER: Dynamics of African Easterly Waves: Integrating Phenomenological Studies and Mathematical Instruction in Atmospheric Science](http://www.nsf.gov/awardsearch/showAward?AWD_ID=0847323&HistoricalAwards=false)|
+| [Origin, Storm Track Dynamics and Convective Feedback of African Easterly Waves](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1433763&HistoricalAwards=false) (NSF) |
+| [CAREER: Dynamics of African Easterly Waves: Integrating Phenomenological Studies and Mathematical Instruction in Atmospheric Science](http://www.nsf.gov/awardsearch/showAward?AWD_ID=0847323&HistoricalAwards=false (NSF))|
 
 
 
 # Climate Drivers of Floods
 ------------------------------------------------
 
-|Our work was supported by NSF grants:|
+|Our work is supported by NSF grant:|
 | [Understanding the Changing Climatology, Organizing Patterns and Source Attribution of Hazards of Floods over the Southcentral and Southeast US](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208562&HistoricalAwards=false) |
 
 
@@ -42,5 +42,5 @@ Easterly Waves are an important class of weather systems that form over North Af
 ------------------------------------------------
 
 |Our work was supported by NASA grants:|
-|Investigation of the Interaction Between Kelvin Waves and Easterly Waves Using CYGNSS Data. PI: C. Schreck-III|
-|Multiscale Interactions Between The MJO, Equatorial Waves, And The Diurnal Cycle Over The Maritime Continent. PI: C. Schreck-III|
+|Investigation of the Interaction Between Kelvin Waves and Easterly Waves Using CYGNSS Data|
+|Multiscale Interactions Between The MJO, Equatorial Waves, And The Diurnal Cycle Over The Maritime Continent|
