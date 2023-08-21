@@ -4,16 +4,15 @@ title: Publications
 permalink: /Publications/
 ---
 
+
+
+
 | Complete list available on: [Google Scholar](https://scholar.google.com/citations?user=lKUHkYIAAAAJ&hl=en&oi=ao) |
-
-
-# Under Review or Recently Accepted 
-| | |
 
 
 # Other papers/reports 
 
-| Diaz, Aiyyer and Semazzi (2011) | Isentropic Descent Beneath the Saharan Air Layer and its impact on Tropical Cyclogensis |
+| Diaz, Aiyyer and Semazzi (2011) | [Isentropic Descent Beneath the Saharan Air Layer and its impact on Tropical Cyclogensis](https://github.com/aiyyer/pdfs/blob/main/diaz_aiyyer_semazzi.pdf)|
 
 
 # Selected Peer-reviewed Publications
