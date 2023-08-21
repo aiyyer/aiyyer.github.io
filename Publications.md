@@ -11,23 +11,24 @@ permalink: /Publications/
 
 
 
-# Under Review
 
 
+# Under Review or Recently Accepted 
+
+
+# Other papers/reports 
+
+| Diaz, Aiyyer and Semazzi (2011) | Isentropic Descent Beneath the Saharan Air Layer and its impact on Tropical Cyclogensis |
+
+
+# Selected Peer-reviewed Publications
 
 |2023 | [The impact of the Madden-Julian Oscillation on the formation of the Arabian Sea Monsoon Onset Vortex](https://essopenarchive.org/doi/full/10.22541/essoar.168276016.62888353/v1)|
-
-
-# Recently Accepted for Publication
-
 
 
 
 |2022 | [Surface Winds and Enthalpy Fluxes During Tropical Cyclone Formation From Easterly Waves: A CYGNSS view](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100823)|
 
-
-
-# Selected Publications
 
 
 
