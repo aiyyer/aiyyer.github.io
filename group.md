@@ -9,11 +9,12 @@ Current Group Members
 
 | Graduate  Students | Undergraduate Research |
 | ------------------ | --------------------- |
-| PhD: Shreyas Dhavle  | |
+| PhD: Shreyas Dhavle  | Hunter Camp |
 | PhD: Matthew Gliatto | |
 | PhD: Abby Thornton| |
-| PhD: Henry Goff | |
+| MS: Henry Goff | |
 | MS: Morgan Kier| |
+|PhD: Bo Puckett| |
 
 Lab Alumni
 =======================
