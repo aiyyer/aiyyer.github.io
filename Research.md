@@ -7,8 +7,8 @@ permalink: /Research/
 
 
 
-| [Easterly Waves](#Easterly-Waves) | [Equatorial waves & Hurricanes](#Equatorial waves-&-Hurricanes) |
-| [Monsoon Onset Vortex] (#Monsoon-Onset-Vortex)| [Climate-Drivers-of-Floods](#Climate Drivers of Floods) |
+| [Easterly Waves](#easterly-waves) | [Equatorial waves & Hurricanes](#equatorial-waves-and-hurricanes) |
+| [Monsoon Onset Vortex] (#monsoon-onset-vortex)| [Climate Drivers of Floods](#climate-drivers-of-floods) |
 | Stormtrack dynamics |
 
 
@@ -45,7 +45,7 @@ Easterly Waves are an important class of weather systems that form over North Af
 | [The Origin and Structure of the Monsoon Onset Vortex](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2329297&HistoricalAwards=false) |
 
 
-# Equatorial  Waves & Hurricanes
+# Equatorial  Waves And Hurricanes
 ------------------------------------------------
 
 |Our work was supported by NASA grants:|
