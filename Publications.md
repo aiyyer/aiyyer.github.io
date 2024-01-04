@@ -17,13 +17,9 @@ permalink: /Publications/
 
 # Selected Peer-reviewed Publications
 
-|2023 | [The impact of the Madden-Julian Oscillation on the formation of the Arabian Sea Monsoon Onset Vortex](https://essopenarchive.org/doi/full/10.22541/essoar.168276016.62888353/v1)|
-
-
+|2023 | [The impact of the Madden-Julian Oscillation on the formation of the Arabian Sea Monsoon Onset Vortex](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL104156)|
 
 |2022 | [Surface Winds and Enthalpy Fluxes During Tropical Cyclone Formation From Easterly Waves: A CYGNSS view](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100823)|
-
-
 
 
 |2021 | [Acceleration of Tropical Cyclones As a Proxy For Extratropical Interactions: Synoptic-Scale Patterns and Long-Term Trends](https://wcd.copernicus.org/preprints/wcd-2021-4/)|
