@@ -17,11 +17,11 @@ permalink: /Publications/
 
 # Selected Peer-reviewed Publications
 
-|2025 | [The Structure of a Developing Arabian Sea Monsoon Onset Vortex: Role of Moist Convection. J. Atmos. Sci,](https://doi.org/10.1175/JAS-D-24-0212.1)
+|2025 | [The Structure of a Developing Arabian Sea Monsoon Onset Vortex: Role of Moist Convection](https://doi.org/10.1175/JAS-D-24-0212.1)
 
-|2025 | [Understanding the organizing scales of winter flood hydroclimatology and the as sociated drivers over the coterminous United States, Journal of Hydrology](https://doi.org/10.1016/j.hydroa.2025.100200)
+|2025 | [Understanding the organizing scales of winter flood hydroclimatology and the as sociated drivers over the coterminous United States](https://doi.org/10.1016/j.hydroa.2025.100200)
 
-|2024 |[Hemisphere-Dependent Impacts of ENSO and Atmospheric Eddies on Hadley Circulation. J. Climate, 37, 6533–6548](https://doi.org/10.1175/JCLI-D-24-0112.1)
+|2024 |[Hemisphere-Dependent Impacts of ENSO and Atmospheric Eddies on Hadley Circulation](https://doi.org/10.1175/JCLI-D-24-0112.1)
 
 |2023 | [The impact of the Madden-Julian Oscillation on the formation of the Arabian Sea Monsoon Onset Vortex](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL104156)|
 
