@@ -17,6 +17,10 @@ permalink: /Publications/
 
 # Selected Peer-reviewed Publications
 
+
+|2025 | [African Easterly Waves. In: Robinson, W.A. (Ed.), Encyclopedia of Atmospheric Sciences, vol. 1. Elsevier, Academic Press, pp. 555–561](https://dx.doi.org/10.1016/B978-0-323-96026-7.00217-4)
+
+
 |2025 | [The Structure of a Developing Arabian Sea Monsoon Onset Vortex: Role of Moist Convection](https://doi.org/10.1175/JAS-D-24-0212.1)
 
 |2025 | [Understanding the organizing scales of winter flood hydroclimatology and the as sociated drivers over the coterminous United States](https://doi.org/10.1016/j.hydroa.2025.100200)
