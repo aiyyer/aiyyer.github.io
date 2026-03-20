@@ -18,6 +18,10 @@ permalink: /Publications/
 # Selected Peer-reviewed Publications
 
 
+|2026 | [Case studies of the Monsoon Onset Vortex and early season Monsoon features using the UFS coupled model ](https://doi.org/10.1175/WAF-D-25-0132.1)
+
+
+
 |2025 | [African Easterly Waves. In: Robinson, W.A. (Ed.), Encyclopedia of Atmospheric Sciences, vol. 1. Elsevier, Academic Press, pp. 555–561](https://dx.doi.org/10.1016/B978-0-323-96026-7.00217-4)
 
 
