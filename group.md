@@ -9,12 +9,9 @@ Current Group Members
 
 | Graduate  Students | Undergraduate Research |
 | ------------------ | --------------------- |
-| PhD: Shreyas Dhavle  | Hunter Camp |
-| PhD: Matthew Gliatto | |
-| PhD: Abby Thornton| |
-| MS: Henry Goff | |
-| MS: Morgan Kier| |
-|PhD: Bo Puckett| |
+| PhD: Terrell Wade  | Nicholas Garman |
+| PhD: Abby Thornton| 
+|  MS: Bo Puckett | 
 
 Lab Alumni
 =======================
@@ -29,6 +26,8 @@ Post Doctoral associates & visitors
 
 | Graduate Students | Year | Links to their dissertations |
 | ----------------- | ---  | ---------------------------- |
+| S. Dhavale| PhD 2025 | [The Structure and Predictability of the Arabian Sea Monsoon Onset Vortex](https://repository.lib.ncsu.edu/items/49ec3a96-edce-4beb-86d6-faf6ade897c9)|
+| H. Goff | MS 2025 | [Diagnosing ENSO impacts on the MJO and Kelvin Waves in a Coupled Model Experiment](https://repository.lib.ncsu.edu/items/d1038787-8c30-44fa-ab5f-832a829a164d)|
 | [S. Mantripragada](https://tropicalwavesresearch.com/)| MS 2021 | |
 | J. D. White | PhD 2019 | African Easterly Wave Storm Track Dynamics|
 | [J. Russell](https://sites.google.com/view/james-russell/) | PhD 2018 |  [The Interaction Between Moist Convection and African Easterly Waves](http://www.lib.ncsu.edu/resolver/1840.20/36264)|
