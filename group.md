@@ -11,6 +11,7 @@ Current Group Members
 | ------------------ | --------------------- |
 | PhD: Terrell Wade  | Nicholas Garman |
 | PhD: Abby Thornton| 
+| PhD: [Ronny Leeper](https://ncics.org/people/ronald-leeper/)| 
 |  MS: Bo Puckett | 
 
 Lab Alumni
