@@ -12,7 +12,7 @@ list_title: "Research and Group News"
 
 | Room 5147 Jordan Hall, NCSU |  [bio](images/aiyyer-cv.pdf) |
 
-Welcome to Atmospheric Dynamics at [NCSU](https://www.ncsu.edu/)
+Welcome to Atmospheric Dynamics at [North Carolina State University](https://www.ncsu.edu/)
 
 ----------------
 
