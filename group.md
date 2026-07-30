@@ -22,7 +22,7 @@ Post Doctoral associates & visitors
 ---------------------------
 
 |[W. Hannah](http://hannahlab.org/)| NSF Postdoctoral Associate |
-|[M. Hakiki] |USAID PRESTASI | 
+|M. Hakiki |USAID PRESTASI | 
 
 
 | Graduate Students | Year | Links to their dissertations |
